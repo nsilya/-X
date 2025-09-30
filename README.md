@@ -7,9 +7,7 @@
 
 # Разработка структур БД (Oracle, PostgreSQL, S3 + Parquet + Iceberg + Trino/Nessie)
 
-Отлично! Вы формулируете ключевую современную задачу в области Data Engineering и Data Platform: разработка высокопроизводительной, масштабируемой и управляемой структуры баз данных, сочетающей реляционные СУБД (Oracle, PostgreSQL) с облачным хранилищем объектов (S3) и современными форматами данных (Parquet + Iceberg), управляемыми через Trino и Nessie.
 
----
 
 ## Полный обзор: Разработка структуры БД — Oracle, PostgreSQL, S3 + Parquet + Iceberg + Trino/Nessie
 
